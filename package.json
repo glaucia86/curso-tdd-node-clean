@@ -4,7 +4,8 @@
   "description": "Curso tem como objetivo aprender de verdade a criar uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID. Link do curso **[AQUI](https://www.udemy.com/course/tdd-com-mango/)**",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   "devDependencies": {
     "@types/node": "^18.11.0",
     "git-commit-msg-linter": "^4.2.1",
+    "husky": "^8.0.0",
+    "lint-staged": "^13.0.3",
     "typescript": "^4.8.4"
   },
   "dependencies": {
