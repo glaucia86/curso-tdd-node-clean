@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test:staged": "jest",
     "prepare": "husky install"
   },
   "repository": {
@@ -27,6 +28,7 @@
   "devDependencies": {
     "@types/jest": "^29.1.2",
     "@types/node": "^18.11.0",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
     "git-commit-msg-linter": "^4.2.1",
     "husky": "^8.0.0",
     "jest": "^29.2.0",
