@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/glaucia86/curso-tdd-node-clean/issues"
   },
-  "homepage": "https://github.com/glaucia86/curso-tdd-node-clean#readme"
+  "homepage": "https://github.com/glaucia86/curso-tdd-node-clean#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
 }
