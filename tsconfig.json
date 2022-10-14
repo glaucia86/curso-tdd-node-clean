@@ -1,29 +1,11 @@
 {
   "compilerOptions": {
-    "outDir": "dist",
+    "outDir": "./dist",
     "module": "commonjs",
     "target": "es2019",
+    "allowJs": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
-    "sourceMap": true,
-    "rootDirs": [
-      "src",
-      "tests"
-    ],
-    "baseUrl": "src",
-    "paths": {
-      "@/tests/*": [
-        "../tests/*"
-      ],
-      "@/*": [
-        "*"
-      ]
-    }
-  },
-  "include": [
-    "src",
-    "tests"
-  ],
-  "exclude": []
+  }
 }
