@@ -27,5 +27,8 @@
     "@types/node": "^18.11.0",
     "git-commit-msg-linter": "^4.2.1",
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "eslint-config-standard-with-typescript": "^23.0.0"
   }
 }
