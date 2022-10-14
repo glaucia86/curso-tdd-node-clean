@@ -4,7 +4,7 @@
   "description": "Curso tem como objetivo aprender de verdade a criar uma API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID. Link do curso **[AQUI](https://www.udemy.com/course/tdd-com-mango/)**",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "prepare": "husky install"
   },
   "repository": {
@@ -25,10 +25,13 @@
   },
   "homepage": "https://github.com/glaucia86/curso-tdd-node-clean#readme",
   "devDependencies": {
+    "@types/jest": "^29.1.2",
     "@types/node": "^18.11.0",
     "git-commit-msg-linter": "^4.2.1",
     "husky": "^8.0.0",
+    "jest": "^29.2.0",
     "lint-staged": "^13.0.3",
+    "ts-jest": "^29.0.3",
     "typescript": "^4.8.4"
   },
   "dependencies": {
