@@ -1,6 +1,7 @@
-node_modules
 dist
+.jest
+src/ui/assets/*
+.gitattributes
+.gitignore
+.prettierignore
 coverage
-./data
-requirements
-.vscode
