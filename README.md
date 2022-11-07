@@ -17,29 +17,42 @@ A intenção deu estudar esse curso é com total objetivo de aprender mais conce
 
 <details><summary><b>Módulo 01: Introdução</b></summary>
 
-- [x] 1.1 - Código Fonte
-- [x] 1.2 - Apresentação do Projeto
-- [x] 1.3 - Configurando o Git
-- [x] 1.4 - Configurando as dependências
-- [x] 1.5 - Clean Architecture
+- [x] 01 - Código Fonte
+- [x] 02 - Apresentação do Projeto
+- [x] 03 - Configurando o Git
+- [x] 04 - Configurando as dependências
+- [x] 05 - Clean Architecture
 
 </details>
 
 <details><summary><b>Módulo 02: SignUp API - Presentation
 Layer</b></summary>
 
-- [x] 1.6 - Criando o SignUpController e validando
+- [x] 06 - Criando o SignUpController e validando
 o request
-- [x] 1.7 - Criando erros personalizados
-- [x] 1.8 - Utilizando Mocks da maneira correta
-- [x] 1.9 - Testando exceções e integrando com o EmailValidator
-- [] 1.10 - Integrando com o AddAccount Usecase
+- [x] 07 - Criando erros personalizados
+- [x] 08 - Utilizando Mocks da maneira correta
+- [x] 09 - Testando exceções e integrando com o EmailValidator
+- [x] 10 - Integrando com o AddAccount Usecase
 
 </details>
 
 <details><summary><b>Módulo 03: Jest</b></summary>
 
-- [] 1.11 -
+- [] 11 - Configurando o Jest e criando scripts de testes
+
+</details>
+
+<details><summary><b>Módulo 04: Utils Layer</b></summary>
+
+- [] 12 - Criando o EmailValidatorAdapter e mockando o validator
+
+</details>
+
+<details><summary><b>Módulo 05: SignUp API - Data Layer</b></summary>
+
+- [] 13 - Criando o DbAddAccount e integrando com o Encrypter
+- [] 14 - Integrando com AddAccountRepository
 
 </details>
 
