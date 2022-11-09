@@ -39,7 +39,7 @@ o request
 
 <details><summary><b>Módulo 03: Jest</b></summary>
 
-- [] 11 - Configurando o Jest e criando scripts de testes
+- [x] 11 - Configurando o Jest e criando scripts de testes
 
 </details>
 
