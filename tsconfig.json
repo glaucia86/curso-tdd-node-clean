@@ -5,6 +5,7 @@
     "target": "es2019",
     "allowJs": true,
     "strict": false,
+    "strictNullChecks": false,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
   }
