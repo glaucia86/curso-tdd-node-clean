@@ -45,7 +45,7 @@ o request
 
 <details><summary><b>Módulo 04: Utils Layer</b></summary>
 
-- [] 12 - Criando o EmailValidatorAdapter e mockando o validator
+- [x] 12 - Criando o EmailValidatorAdapter e mockando o validator
 
 </details>
 
